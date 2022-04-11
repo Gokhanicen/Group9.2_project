@@ -21,5 +21,6 @@ public class GroupDelta {
         // Sasha's commit
 
         //Sasha's second commit
+
     }
 }
